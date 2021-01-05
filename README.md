@@ -1,3 +1,5 @@
+Live prewiev: http://manioart.pl/projekty/todo/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
